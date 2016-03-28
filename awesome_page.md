@@ -1,5 +1,5 @@
 
-**Bold Italic**  
+**Bold Italic Bold**  
 *Italic*  
 `Code Block`  
 [Google](https://www.google.com/)  
